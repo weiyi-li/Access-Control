@@ -2,8 +2,8 @@
 Access control module based on Arduino Nano, require hardware support (RFID reader and servo)
 Components
 The entire system is composed of three core modules, which are solar power module, access control module and LCD display module.
-Detailed use of every key components of the early prototype is demonstrated below.
-Solar power module
+Detailed use of every key component of the early prototype is demonstrated below.
+Solar power module:
 -	Solar panel: provide auxiliary power supply directly to the power banks
 Access control module:
 -	RFID reader: read information in an ID card.
