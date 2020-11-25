@@ -12,7 +12,8 @@ Magnet switch: control the status of door lock
 ### **LCD display module**:  
 LCD1602 screen: deliver text  
 Clock module: used for chronograph  
-## Demonstration 
+## Demonstration
+![Image](https://github.com/weiyi-li/Access-Control/blob/master/Image/Poster.jpg)
 ![Image](https://github.com/weiyi-li/Access-Control/blob/master/Image/1.jpg)
 ## Brief circuit diagram
 ![Image](https://github.com/weiyi-li/Access-Control/blob/master/Image/Circuit.jpg)
