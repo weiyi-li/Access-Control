@@ -16,7 +16,6 @@ Clock module: used for chronograph
 ### Presentation poster
 
 ### Prototype
-![Image](https://github.com/weiyi-li/Access-Control/blob/master/Image/Poster.jpg)
 ![Image](https://github.com/weiyi-li/Access-Control/blob/master/Image/1.jpg)
 ### Brief circuit diagram
 ![Image](https://github.com/weiyi-li/Access-Control/blob/master/Image/Circuit.jpg)
