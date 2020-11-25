@@ -14,7 +14,7 @@ LCD1602 screen: deliver text
 Clock module: used for chronograph  
 ## Demonstration
 ### Presentation poster
-![Image](https://github.com/weiyi-li/Access-Control/blob/master/Image/Poster.jpg)
+
 ### Prototype
 ![Image](https://github.com/weiyi-li/Access-Control/blob/master/Image/1.jpg)
 ### Brief circuit diagram
