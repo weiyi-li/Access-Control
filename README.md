@@ -18,4 +18,6 @@ Clock module: used for chronograph
 ### Prototype
 ![Image](https://github.com/weiyi-li/Access-Control/blob/master/Image/1.jpg)
 ### Brief circuit diagram
+The actual connection follows the hand sketch.
+![Image](https://github.com/weiyi-li/Access-Control/blob/master/Image/Connection.jpg)
 ![Image](https://github.com/weiyi-li/Access-Control/blob/master/Image/Circuit.jpg)
